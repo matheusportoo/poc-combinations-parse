@@ -1,0 +1,112 @@
+[
+  {
+    "color": "verde",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "rosa",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "rosa",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "rosa",
+    "size": "gg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "laranja",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "laranja",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "laranja",
+    "size": "gg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "laranja",
+    "size": "p",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "azul",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "azul",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "azul",
+    "size": "pp",
+    "seller": "RIHAPPY"
+  },
+  {
+    "color": "azul",
+    "size": "xg",
+    "seller": "RIHAPPY"
+  },
+  {
+    "color": "branco",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "branco",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "branco",
+    "size": "gg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "branco",
+    "size": "p",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "vermelho",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "vermelho",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "vermelho",
+    "size": "pp",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "vermelho",
+    "size": "xg",
+    "seller": "RCHLO"
+  },
+  {
+    "color": "amarelo",
+    "size": "xg",
+    "seller": "RIHAPPY"
+  },
+  {
+    "color": "amarelo",
+    "size": "gg",
+    "seller": "RIHAPPY"
+  }
+]
